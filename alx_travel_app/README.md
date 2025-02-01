@@ -1,1 +1,1 @@
-Build API views to manage listings and bookings, and ensure the endpoints are documented with Swagger.
+Define the database models, create serializers for API data representation, and implement a management command to seed the database.
